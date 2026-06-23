@@ -10,8 +10,8 @@ It is an experimentary idea that what if there exist an interactive video assist
 ## Note:
 The video used here is just to make the output interactive and may be change it if needed.
 # Technologies used
-Python
-Tkinter
-OpenCV
-Google Generative AI - Gemini AI
-Pyttsx3
+1. Python
+2. Tkinter
+3. OpenCV
+4. Google Generative AI - Gemini AI
+5. Pyttsx3
